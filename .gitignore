@@ -1,2 +1,3 @@
 workbooks/*.fits
 workbooks/*.csv
+workbooks/.ipynb_checkpoints/
