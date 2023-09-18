@@ -2,3 +2,4 @@ workbooks/*.fits
 workbooks/*.csv
 workbooks/.ipynb_checkpoints/
 answer
+data
