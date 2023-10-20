@@ -3,3 +3,4 @@ workbooks/*.csv
 workbooks/.ipynb_checkpoints/
 answer
 data
+nohup.out
